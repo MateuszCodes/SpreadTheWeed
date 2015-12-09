@@ -1,2 +1,2 @@
 # SpreadTheWeed
-This was a final project for CPS 393 (Introduction to C &amp; Linux) at Ryerson University
+This was a final project for CPS 393 (Introduction to C and Linux) at Ryerson University. The program took arguments as inputs, an int which was the aount of years to calculate for and a txt file containing a matrix of initial density values. The program would take the initial values and then either calculate the density after the amount of years entered or, if a stable density was established, would tell you how many years it took to reach that.
